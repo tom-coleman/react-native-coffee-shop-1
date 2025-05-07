@@ -26,7 +26,8 @@ export default function ParallaxScrollView({
   const colorScheme = useColorScheme() ?? 'light';
   const scrollRef = useAnimatedRef<Animated.ScrollView>();
   const scrollOffset = useScrollViewOffset(scrollRef);
-  const bottom = useBottomTabOverflow();
+  // const bottom = useBottomTabOverflow() ?? 0;
+  const bottom = 0; // Placeholder for bottom tab overflow causing issues on iOS
   const headerAnimatedStyle = useAnimatedStyle(() => {
     return {
       transform: [
