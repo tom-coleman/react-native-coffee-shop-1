@@ -28,7 +28,7 @@
         <key>CFBundleURLSchemes</key>
         <array>
           <string>myapp</string>
-          <string>com.anonymous.reactnativemyapp</string>
+          <string>com.anonymous.reactnativecoffeeshop</string>
         </array>
       </dict>
     </array>

@@ -1,4 +1,4 @@
-package com.anonymous.reactnativemyapp
+package com.anonymous.reactnativecoffeeshop
 import expo.modules.splashscreen.SplashScreenManager
 
 import android.os.Build

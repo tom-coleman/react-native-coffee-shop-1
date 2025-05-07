@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-myapp",
-    "slug": "react-native-myapp",
+    "name": "react-native-coffee-shop",
+    "slug": "react-native-coffee-shop",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/coffee-icon.png",
@@ -15,14 +15,14 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.anonymous.reactnativemyapp"
+      "bundleIdentifier": "com.anonymous.reactnativecoffeeshop"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.anonymous.reactnativemyapp"
+      "package": "com.anonymous.reactnativecoffeeshop"
     },
     "web": {
       "bundler": "metro",

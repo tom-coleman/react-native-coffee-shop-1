@@ -1,4 +1,4 @@
-package com.anonymous.reactnativemyapp
+package com.anonymous.reactnativecoffeeshop
 
 import android.app.Application
 import android.content.res.Configuration
